@@ -171,7 +171,7 @@
           "RD": {
             "title": "RD",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -187,7 +187,7 @@
           "RC": {
             "title": "RC",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -203,7 +203,7 @@
           "RI": {
             "title": "RI",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -219,7 +219,7 @@
           "LD": {
             "title": "LD",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -235,7 +235,7 @@
           "C": {
             "title": "C",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -251,7 +251,7 @@
           "LI": {
             "title": "LI",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -267,7 +267,7 @@
           "DD": {
             "title": "DD",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -283,7 +283,7 @@
           "DC": {
             "title": "DC",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -299,7 +299,7 @@
           "DI": {
             "title": "DI",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
