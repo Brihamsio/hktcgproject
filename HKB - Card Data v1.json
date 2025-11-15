@@ -1,0 +1,232 @@
+{
+  "HKB-001": {
+    "id": "HKB-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reptacillo",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/W4YCzpn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reptacillo",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-002": {
+    "id": "HKB-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saltamontes",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/1RINLcs.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saltamontes",
+    "type": false,
+    "cost": "7",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-003": {
+    "id": "HKB-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiktik",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/9uJ8pto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tiktik",
+    "type": "Personaje",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-004": {
+    "id": "HKB-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cáscara Minera",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/cFl2CTY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cáscara Minera",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Cáscara"
+    ]
+  },
+  "HKB-005": {
+    "id": "HKB-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minitejedora",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/dQJpgJw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minitejedora",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Tejedora"
+    ]
+  },
+  "HKB-006": {
+    "id": "HKB-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cáscara Errante",
+        "type": "Personaje",
+        "cost": "6",
+        "image": "https://i.imgur.com/QqgwxzG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cáscara Errante",
+    "type": "Personaje",
+    "cost": "6",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Cáscara"
+    ]
+  },
+  "HKB-007": {
+    "id": "HKB-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trepamusgo",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/McjLCvj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trepamusgo",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-008": {
+    "id": "HKB-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Engulletontos",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/zYaPeKq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Engulletontos",
+    "type": "Personaje",
+    "cost": "7",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-009": {
+    "id": "HKB-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Musgólula",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/CyE7RAt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Musgólula",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-010": {
+    "id": "HKB-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cría de Colmena",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/oLjcp1X.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cría de Colmena",
+    "type": false,
+    "cost": "2",
+    "Elemento": [
+      "🌟Onírico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Abeja"
+    ]
+  }
+}
