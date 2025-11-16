@@ -1,0 +1,603 @@
+{
+  "HKB-001": {
+    "id": "HKB-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reptacillo",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/W4YCzpn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reptacillo",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-002": {
+    "id": "HKB-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saltamontes",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/1RINLcs.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saltamontes",
+    "type": "Personaje",
+    "cost": "7",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-003": {
+    "id": "HKB-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tiktik",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/9uJ8pto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tiktik",
+    "type": "Personaje",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Bicho"
+    ]
+  },
+  "HKB-004": {
+    "id": "HKB-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cáscara Minera",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/cFl2CTY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cascara Minera",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Cáscara"
+    ]
+  },
+  "HKB-005": {
+    "id": "HKB-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Minitejedora",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/dQJpgJw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Minitejedora",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Tejedora"
+    ]
+  },
+  "HKB-006": {
+    "id": "HKB-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cáscara Errante",
+        "type": "Personaje",
+        "cost": "6",
+        "image": "https://i.imgur.com/QqgwxzG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cascara Errante",
+    "type": "Personaje",
+    "cost": "6",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Cáscara"
+    ]
+  },
+  "HKB-007": {
+    "id": "HKB-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trepamusgo",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/McjLCvj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trepamusgo",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-008": {
+    "id": "HKB-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Engulletontos",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/zYaPeKq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Engulletontos",
+    "type": "Personaje",
+    "cost": "7",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-009": {
+    "id": "HKB-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Musgólula",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/CyE7RAt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Musgolula",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Musgo"
+    ]
+  },
+  "HKB-010": {
+    "id": "HKB-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cría de Colmena",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/oLjcp1X.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cria de Colmena",
+    "type": "Personaje",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": [
+      "Abeja"
+    ]
+  },
+  "HKB-011": {
+    "id": "HKB-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hollow Knight - El Receptáculo Puro",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/IcSTVcS.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hollow Knight - El Receptaculo Puro",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🪙Geo",
+      "🔴Rosario"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-012": {
+    "id": "HKB-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caballerito - El Fantasma",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/wuFam27.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caballerito - El Fantasma",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🪙Geo"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-013": {
+    "id": "HKB-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hornet - Protectora de Hallownest",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/36hzNaE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hornet - Protectora de Hallownest",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🧵Seda",
+      "🔴Rosario",
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-014": {
+    "id": "HKB-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quirrel - El Viajero Errante",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/28Hfa0a.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quirrel - El Viajero Errante",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🧵Seda"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-015": {
+    "id": "HKB-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cornifer - El Cartógrafo",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/WdystBj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cornifer - El Cartografo",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🪙Geo",
+      "🔴Rosario"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-016": {
+    "id": "HKB-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sly - Gran Sabio de los Aguijones",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/o24Wr9g.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sly - Gran Sabio de los Aguijones",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🪙Geo",
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-017": {
+    "id": "HKB-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimm - El Maestro de la Tropa",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/NB007cE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimm - El Maestro de la Tropa",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🧵Seda",
+      "🔴Rosario"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-018": {
+    "id": "HKB-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zote - El Guerrero Todopoderoso",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/zI1am5R.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zote - El Guerrero Todopoderoso",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🔴Rosario",
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-019": {
+    "id": "HKB-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Señores Mantis - Matriarcas del clan Mantis",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/fb6UIL9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Señores Mantis - Matriarcas del clan Mantis",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🔴Rosario",
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-020": {
+    "id": "HKB-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elderbug - El Anciano de Bocasucia",
+        "type": "Cabecilla",
+        "cost": 0,
+        "image": "https://i.imgur.com/L0NzQ4b.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elderbug - El Anciano de Bocasucia",
+    "type": "Cabecilla",
+    "cost": 0,
+    "Elemento": [
+      "🤍Alma",
+      "🪙Geo",
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false
+  },
+  "HKB-051": {
+    "id": "HKB-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aguijón Onírico",
+        "type": "Habilidad",
+        "cost": "3",
+        "image": "https://i.imgur.com/3zZmyNQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aguijon Onirico",
+    "type": "Habilidad",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ]
+  },
+  "HKB-052": {
+    "id": "HKB-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garra de Mantis",
+        "type": "Habilidad",
+        "cost": "5",
+        "image": "https://i.imgur.com/GsF0Rif.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garra de Mantis",
+    "type": "Habilidad",
+    "cost": "5",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ]
+  },
+  "HKB-053": {
+    "id": "HKB-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Portal Onírico",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/Bg3fe0l.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portal Onirico",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ]
+  },
+  "HKB-054": {
+    "id": "HKB-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alas de Monarca",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/AEwBMsX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alas de Monarca",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘"
+    ]
+  },
+  "HKB-055": {
+    "id": "HKB-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lágrima de Isma",
+        "type": "Habilidad",
+        "cost": "5",
+        "image": "https://i.imgur.com/UtSU7SX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lagrima de Isma",
+    "type": "Habilidad",
+    "cost": "5",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ]
+  },
+  "HKB-056": {
+    "id": "HKB-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capa de Ala de Polilla",
+        "type": "Habilidad",
+        "cost": "3",
+        "image": "https://i.imgur.com/vfqHeL4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capa de Ala de Polilla",
+    "type": "Habilidad",
+    "cost": "3",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Especial": false,
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ]
+  }
+}
