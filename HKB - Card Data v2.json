@@ -496,643 +496,6 @@
       "Infrecuente"
     ]
   },
-  "HKB-051": {
-    "id": "HKB-051",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Aguijón Onírico",
-        "type": "Habilidad",
-        "cost": "3",
-        "image": "https://i.imgur.com/3zZmyNQ.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Aguijon Onirico",
-    "type": "Habilidad",
-    "cost": "3",
-    "Elemento": [
-      "🌟Onirico"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-052": {
-    "id": "HKB-052",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Garra de Mantis",
-        "type": "Habilidad",
-        "cost": "5",
-        "image": "https://i.imgur.com/GsF0Rif.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Garra de Mantis",
-    "type": "Habilidad",
-    "cost": "5",
-    "Elemento": [
-      "🧵Seda"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-053": {
-    "id": "HKB-053",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Portal Onírico",
-        "type": "Habilidad",
-        "cost": "2",
-        "image": "https://i.imgur.com/Bg3fe0l.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Portal Onirico",
-    "type": "Habilidad",
-    "cost": "2",
-    "Elemento": [
-      "🌟Onirico"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-054": {
-    "id": "HKB-054",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Alas de Monarca",
-        "type": "Habilidad",
-        "cost": "2",
-        "image": "https://i.imgur.com/AEwBMsX.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Alas de Monarca",
-    "type": "Habilidad",
-    "cost": "2",
-    "Elemento": [
-      "🧵Seda"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-055": {
-    "id": "HKB-055",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Lágrima de Isma",
-        "type": "Habilidad",
-        "cost": "5",
-        "image": "https://i.imgur.com/UtSU7SX.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Lagrima de Isma",
-    "type": "Habilidad",
-    "cost": "5",
-    "Elemento": [
-      "🤍Alma"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-056": {
-    "id": "HKB-056",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Capa de Ala de Polilla",
-        "type": "Habilidad",
-        "cost": "3",
-        "image": "https://i.imgur.com/vfqHeL4.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Capa de Ala de Polilla",
-    "type": "Habilidad",
-    "cost": "3",
-    "Elemento": [
-      "⚙️Fragmento"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-057": {
-    "id": "HKB-057",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Corazón de Cristal",
-        "type": "Habilidad",
-        "cost": "6",
-        "image": "https://i.imgur.com/Dwyj8IP.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Corazon de Cristal",
-    "type": "Habilidad",
-    "cost": "6",
-    "Elemento": [
-      "🤍Alma"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-058": {
-    "id": "HKB-058",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Capa Sombría",
-        "type": "Habilidad",
-        "cost": "4",
-        "image": "https://i.imgur.com/DsLbdXu.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Capa Sombria",
-    "type": "Habilidad",
-    "cost": "4",
-    "Elemento": [
-      "🔴Rosario"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-059": {
-    "id": "HKB-059",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Omnimapa",
-        "type": "Habilidad",
-        "cost": "2",
-        "image": "https://i.imgur.com/gGjHdyJ.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Omnimapa",
-    "type": "Habilidad",
-    "cost": "2",
-    "Elemento": [
-      "🪙Geo"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-060": {
-    "id": "HKB-060",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Diario del Cazador",
-        "type": "Habilidad",
-        "cost": "2",
-        "image": "https://i.imgur.com/hNgjHhG.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Diario del Cazador",
-    "type": "Habilidad",
-    "cost": "2",
-    "Elemento": [
-      "🔴Rosario"
-    ],
-    "Arquetipo": [],
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-061": {
-    "id": "HKB-061",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Golpe Concentrado",
-        "type": "Habilidad",
-        "cost": "5",
-        "image": "https://i.imgur.com/4r6M9mh.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Golpe Concentrado",
-    "type": "Habilidad",
-    "cost": "5",
-    "Elemento": [
-      "⚙️Fragmento"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-062": {
-    "id": "HKB-062",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Silfonía",
-        "type": "Habilidad",
-        "cost": "4",
-        "image": "https://i.imgur.com/6Vlp5DO.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Silfonia",
-    "type": "Habilidad",
-    "cost": "4",
-    "Elemento": [
-      "🪙Geo"
-    ],
-    "Arquetipo": [],
-    "Muescas": [
-      "🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ]
-  },
-  "HKB-063": {
-    "id": "HKB-063",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Atrapaalmas",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/gncdTfA.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Atrapaalmas",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🤍Alma"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ]
-  },
-  "HKB-064": {
-    "id": "HKB-064",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Ojos del Druida",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/qlYps7P.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Ojos del Druida",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🧵Seda"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ]
-  },
-  "HKB-065": {
-    "id": "HKB-065",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Enjambre Recolector",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/fLTGkSN.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Enjambre Recolector",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🪙Geo"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ]
-  },
-  "HKB-066": {
-    "id": "HKB-066",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Bolsa de Bicho Muerto",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/Tj98cwx.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Bolsa de Bicho Muerto",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🔴Rosario"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ]
-  },
-  "HKB-067": {
-    "id": "HKB-067",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Colgante Fragmentado",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/rBRorxi.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Colgante Fragmentado",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "⚙️Fragmento"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ]
-  },
-  "HKB-068": {
-    "id": "HKB-068",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Codicia Frágil",
-        "type": "Amuleto",
-        "cost": "5",
-        "image": "https://i.imgur.com/n8MsdJo.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Codicia Fragil",
-    "type": "Amuleto",
-    "cost": "5",
-    "Elemento": [
-      "🌟Onirico"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Infrecuente"
-    ],
-    "Especial": [
-      "💙Saviavida"
-    ]
-  },
-  "HKB-069": {
-    "id": "HKB-069",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Escudo Onírico",
-        "type": "Amuleto",
-        "cost": "4",
-        "image": "https://i.imgur.com/L1WO7hT.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Escudo Onirico",
-    "type": "Amuleto",
-    "cost": "4",
-    "Elemento": [
-      "🌟Onirico"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Única"
-    ],
-    "Especial": [
-      "🔅Única"
-    ]
-  },
-  "HKB-070": {
-    "id": "HKB-070",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Sombra Afilada",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/CW4Pa8y.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Sombra Afilada",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "⚙️Fragmento"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ],
-    "Especial": false
-  },
-  "HKB-071": {
-    "id": "HKB-071",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Furia de los Caidos",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/gEXdorn.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Furia de los Caidos",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🔴Rosario"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ],
-    "Especial": false
-  },
-  "HKB-072": {
-    "id": "HKB-072",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Brújula Caprichosa",
-        "type": "Amuleto",
-        "cost": "4",
-        "image": "https://i.imgur.com/wLewwp2.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Brujula Caprichosa",
-    "type": "Amuleto",
-    "cost": "4",
-    "Elemento": [
-      "🪙Geo"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ],
-    "Especial": false
-  },
-  "HKB-073": {
-    "id": "HKB-073",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Cuerpo Firme",
-        "type": "Amuleto",
-        "cost": "1",
-        "image": "https://i.imgur.com/VgFqBkB.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Cuerpo Firme",
-    "type": "Amuleto",
-    "cost": "1",
-    "Elemento": [
-      "🧵Seda"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘"
-    ],
-    "Calidad": [
-      "Común"
-    ],
-    "Especial": false
-  },
-  "HKB-074": {
-    "id": "HKB-074",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Fuerza Irrompible",
-        "type": "Amuleto",
-        "cost": "3",
-        "image": "https://i.imgur.com/QT92Dyn.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Fuerza Irrompible",
-    "type": "Amuleto",
-    "cost": "3",
-    "Elemento": [
-      "🤍Alma"
-    ],
-    "Arquetipo": false,
-    "Muescas": [
-      "🔘🔘🔘"
-    ],
-    "Calidad": [
-      "Única"
-    ],
-    "Especial": [
-      "🔅Única"
-    ]
-  },
   "HKB-021": {
     "id": "HKB-021",
     "isToken": false,
@@ -1990,5 +1353,642 @@
     ],
     "Muescas": false,
     "Especial": false
+  },
+  "HKB-051": {
+    "id": "HKB-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aguijón Onírico",
+        "type": "Habilidad",
+        "cost": "3",
+        "image": "https://i.imgur.com/3zZmyNQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aguijon Onirico",
+    "type": "Habilidad",
+    "cost": "3",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-052": {
+    "id": "HKB-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garra de Mantis",
+        "type": "Habilidad",
+        "cost": "5",
+        "image": "https://i.imgur.com/GsF0Rif.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garra de Mantis",
+    "type": "Habilidad",
+    "cost": "5",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-053": {
+    "id": "HKB-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Portal Onírico",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/Bg3fe0l.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portal Onirico",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-054": {
+    "id": "HKB-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alas de Monarca",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/AEwBMsX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alas de Monarca",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-055": {
+    "id": "HKB-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lágrima de Isma",
+        "type": "Habilidad",
+        "cost": "5",
+        "image": "https://i.imgur.com/UtSU7SX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lagrima de Isma",
+    "type": "Habilidad",
+    "cost": "5",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-056": {
+    "id": "HKB-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capa de Ala de Polilla",
+        "type": "Habilidad",
+        "cost": "3",
+        "image": "https://i.imgur.com/vfqHeL4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capa de Ala de Polilla",
+    "type": "Habilidad",
+    "cost": "3",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-057": {
+    "id": "HKB-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corazón de Cristal",
+        "type": "Habilidad",
+        "cost": "6",
+        "image": "https://i.imgur.com/Dwyj8IP.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corazon de Cristal",
+    "type": "Habilidad",
+    "cost": "6",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-058": {
+    "id": "HKB-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capa Sombría",
+        "type": "Habilidad",
+        "cost": "4",
+        "image": "https://i.imgur.com/DsLbdXu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capa Sombria",
+    "type": "Habilidad",
+    "cost": "4",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-059": {
+    "id": "HKB-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Omnimapa",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/gGjHdyJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Omnimapa",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-060": {
+    "id": "HKB-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diario del Cazador",
+        "type": "Habilidad",
+        "cost": "2",
+        "image": "https://i.imgur.com/hNgjHhG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diario del Cazador",
+    "type": "Habilidad",
+    "cost": "2",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [],
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-061": {
+    "id": "HKB-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Golpe Concentrado",
+        "type": "Habilidad",
+        "cost": "5",
+        "image": "https://i.imgur.com/4r6M9mh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Golpe Concentrado",
+    "type": "Habilidad",
+    "cost": "5",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-062": {
+    "id": "HKB-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Silfonía",
+        "type": "Habilidad",
+        "cost": "4",
+        "image": "https://i.imgur.com/6Vlp5DO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Silfonia",
+    "type": "Habilidad",
+    "cost": "4",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [],
+    "Muescas": [
+      "🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ]
+  },
+  "HKB-063": {
+    "id": "HKB-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Atrapaalmas",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/gncdTfA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Atrapaalmas",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ]
+  },
+  "HKB-064": {
+    "id": "HKB-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ojos del Druida",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/qlYps7P.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ojos del Druida",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ]
+  },
+  "HKB-065": {
+    "id": "HKB-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enjambre Recolector",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/fLTGkSN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enjambre Recolector",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ]
+  },
+  "HKB-066": {
+    "id": "HKB-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bolsa de Bicho Muerto",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/Tj98cwx.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bolsa de Bicho Muerto",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ]
+  },
+  "HKB-067": {
+    "id": "HKB-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Colgante Fragmentado",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/rBRorxi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Colgante Fragmentado",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ]
+  },
+  "HKB-068": {
+    "id": "HKB-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Codicia Frágil",
+        "type": "Amuleto",
+        "cost": "5",
+        "image": "https://i.imgur.com/n8MsdJo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Codicia Fragil",
+    "type": "Amuleto",
+    "cost": "5",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Infrecuente"
+    ],
+    "Especial": [
+      "💙Saviavida"
+    ]
+  },
+  "HKB-069": {
+    "id": "HKB-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudo Onírico",
+        "type": "Amuleto",
+        "cost": "4",
+        "image": "https://i.imgur.com/L1WO7hT.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudo Onirico",
+    "type": "Amuleto",
+    "cost": "4",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Especial": [
+      "🔅Única"
+    ]
+  },
+  "HKB-070": {
+    "id": "HKB-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sombra Afilada",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/CW4Pa8y.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sombra Afilada",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Especial": false
+  },
+  "HKB-071": {
+    "id": "HKB-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Furia de los Caidos",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/gEXdorn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Furia de los Caidos",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Especial": false
+  },
+  "HKB-072": {
+    "id": "HKB-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brújula Caprichosa",
+        "type": "Amuleto",
+        "cost": "4",
+        "image": "https://i.imgur.com/wLewwp2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brujula Caprichosa",
+    "type": "Amuleto",
+    "cost": "4",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Especial": false
+  },
+  "HKB-073": {
+    "id": "HKB-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cuerpo Firme",
+        "type": "Amuleto",
+        "cost": "1",
+        "image": "https://i.imgur.com/VgFqBkB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cuerpo Firme",
+    "type": "Amuleto",
+    "cost": "1",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Especial": false
+  },
+  "HKB-074": {
+    "id": "HKB-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuerza Irrompible",
+        "type": "Amuleto",
+        "cost": "3",
+        "image": "https://i.imgur.com/QT92Dyn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuerza Irrompible",
+    "type": "Amuleto",
+    "cost": "3",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": false,
+    "Muescas": [
+      "🔘🔘🔘"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Especial": [
+      "🔅Única"
+    ]
   }
 }
