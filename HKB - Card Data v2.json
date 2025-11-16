@@ -496,6 +496,864 @@
       "Infrecuente"
     ]
   },
+  "HKB-021": {
+    "id": "HKB-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caballerito",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/qUwL8cO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caballerito",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": [
+      "Prota",
+      "Vasija"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-022": {
+    "id": "HKB-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hollow Knight",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/PYtT2Bh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hollow Knight",
+    "type": "Personaje",
+    "cost": "7",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Vasija"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-023": {
+    "id": "HKB-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hornet",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/beLkX66.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hornet",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Prota",
+      "Tejedora"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-024": {
+    "id": "HKB-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quirrel",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/TNakPe3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quirrel",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Soñador",
+      "Protector"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-025": {
+    "id": "HKB-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cornifer",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/wpK4eqL.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cornifer",
+    "type": "Personaje",
+    "cost": "2",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [
+      "Bicho",
+      "Cartógrafo"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-026": {
+    "id": "HKB-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sly",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/ls5mdmQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sly",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [
+      "Bicho",
+      "Maestro"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-027": {
+    "id": "HKB-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimm",
+        "type": "Personaje",
+        "cost": "8",
+        "image": "https://i.imgur.com/jHQSqCd.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimm",
+    "type": "Personaje",
+    "cost": "8",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [
+      "Rey Pesadilla"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-028": {
+    "id": "HKB-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zote",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/GrckcFp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zote",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [
+      "Príncipe Gris"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-029": {
+    "id": "HKB-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Señores Mantis",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/oWHzyCF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Señores Mantis",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Mantis",
+      "Protector"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-030": {
+    "id": "HKB-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elderbug",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/1AT1FNc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elderbug",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Bicho"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-031": {
+    "id": "HKB-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herrah",
+        "type": "Personaje",
+        "cost": "6",
+        "image": "https://i.imgur.com/chI7jUU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Herrah",
+    "type": "Personaje",
+    "cost": "6",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Soñador",
+      "Tejedora"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "💙Saviavida",
+      "🔅Única"
+    ]
+  },
+  "HKB-032": {
+    "id": "HKB-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lurien",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/FOs1V4I.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lurien",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🤍Alma"
+    ],
+    "Arquetipo": [
+      "Soñador",
+      "Protector"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "💙Saviavida",
+      "🔅Única"
+    ]
+  },
+  "HKB-033": {
+    "id": "HKB-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Monomon",
+        "type": "Personaje",
+        "cost": "9",
+        "image": "https://i.imgur.com/5dUX1yJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Monomon",
+    "type": "Personaje",
+    "cost": "9",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": [
+      "Soñador",
+      "Maestro"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "💙Saviavida",
+      "🔅Única"
+    ]
+  },
+  "HKB-034": {
+    "id": "HKB-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "El Destello",
+        "type": "Personaje",
+        "cost": "12",
+        "image": "https://i.imgur.com/QV7AygG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "El Destello",
+    "type": "Personaje",
+    "cost": "12",
+    "Elemento": [
+      "🤍Alma",
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Deidad"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "🔅Única"
+    ]
+  },
+  "HKB-035": {
+    "id": "HKB-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aspid Primigenio",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/5jZByGQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aspid Primigenio",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Cazador"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-036": {
+    "id": "HKB-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carcasa Alada",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/WvTZsHl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carcasa Alada",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [
+      "Cáscara",
+      "Pálido"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-037": {
+    "id": "HKB-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Carcasa Real",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/VKykkdk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carcasa Real",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🪙Geo"
+    ],
+    "Arquetipo": [
+      "Cáscara",
+      "Pálido"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-038": {
+    "id": "HKB-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Receptáculo Roto",
+        "type": "Personaje",
+        "cost": "6",
+        "image": "https://i.imgur.com/e2tBfRj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Receptaculo Roto",
+    "type": "Personaje",
+    "cost": "6",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Vasija"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-039": {
+    "id": "HKB-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vengamosca Colérica",
+        "type": "Personaje",
+        "cost": "4",
+        "image": "https://i.imgur.com/ZrR8CGW.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vengamosca Colerica",
+    "type": "Personaje",
+    "cost": "4",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Cazador"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-040": {
+    "id": "HKB-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caballero Colmena",
+        "type": "Personaje",
+        "cost": "6",
+        "image": "https://i.imgur.com/d5Ee1nc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caballero Colmena",
+    "type": "Personaje",
+    "cost": "6",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Abeja",
+      "Protector"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-041": {
+    "id": "HKB-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Germen de Vida",
+        "type": "Personaje",
+        "cost": "2",
+        "image": "https://i.imgur.com/CEKth56.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Germen de Vida",
+    "type": "Personaje",
+    "cost": "2",
+    "Elemento": [
+      "🌟Onirico"
+    ],
+    "Arquetipo": [
+      "Germen"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "💙Saviavida"
+    ]
+  },
+  "HKB-042": {
+    "id": "HKB-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shakra",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/YcwI8sq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shakra",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [
+      "Protector",
+      "Cartógrafo"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-043": {
+    "id": "HKB-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rey Pálido",
+        "type": "Personaje",
+        "cost": "10",
+        "image": "https://i.imgur.com/3ugEyEZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rey Palido",
+    "type": "Personaje",
+    "cost": "10",
+    "Elemento": [
+      "🪙Geo",
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Pálido",
+      "Deidad"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "💙Saviavida",
+      "🔅Única"
+    ]
+  },
+  "HKB-044": {
+    "id": "HKB-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vasija Pura",
+        "type": "Personaje",
+        "cost": "11",
+        "image": "https://i.imgur.com/FKIlE7s.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vasija Pura",
+    "type": "Personaje",
+    "cost": "11",
+    "Elemento": [
+      "🔴Rosario",
+      "🤍Alma"
+    ],
+    "Arquetipo": [
+      "Vasija",
+      "Pálido"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "🔅Única"
+    ]
+  },
+  "HKB-045": {
+    "id": "HKB-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grindle",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/Dm6w1KA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grindle",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "🔴Rosario"
+    ],
+    "Arquetipo": [
+      "Bicho",
+      "Ladrón"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-046": {
+    "id": "HKB-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Señor Desleal",
+        "type": "Personaje",
+        "cost": "8",
+        "image": "https://i.imgur.com/biy3zeJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Señor Desleal",
+    "type": "Personaje",
+    "cost": "8",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Infectado",
+      "Mantis"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-047": {
+    "id": "HKB-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gran Madre Seda",
+        "type": "Personaje",
+        "cost": "11",
+        "image": "https://i.imgur.com/dc7pird.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gran Madre Seda",
+    "type": "Personaje",
+    "cost": "11",
+    "Elemento": [
+      "🧵Seda",
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Gran Madre Seda"
+    ],
+    "Calidad": [
+      "Única"
+    ],
+    "Muescas": false,
+    "Especial": [
+      "🔅Única"
+    ]
+  },
+  "HKB-048": {
+    "id": "HKB-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forjaguijones",
+        "type": "Personaje",
+        "cost": "3",
+        "image": "https://i.imgur.com/xirIeYh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forjaguijones",
+    "type": "Personaje",
+    "cost": "3",
+    "Elemento": [
+      "⚙️Fragmento"
+    ],
+    "Arquetipo": [
+      "Bicho",
+      "Maestro"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-049": {
+    "id": "HKB-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pecadora Original",
+        "type": "Personaje",
+        "cost": "7",
+        "image": "https://i.imgur.com/4Yjy7Ku.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pecadora Original",
+    "type": "Personaje",
+    "cost": "7",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Tejedora",
+      "Cazador"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
+  "HKB-050": {
+    "id": "HKB-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lumélula Eléctrica",
+        "type": "Personaje",
+        "cost": "5",
+        "image": "https://i.imgur.com/VZM7RZD.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lumelula Electrica",
+    "type": "Personaje",
+    "cost": "5",
+    "Elemento": [
+      "🧵Seda"
+    ],
+    "Arquetipo": [
+      "Bicho"
+    ],
+    "Calidad": [
+      "Común"
+    ],
+    "Muescas": false,
+    "Especial": false
+  },
   "HKB-051": {
     "id": "HKB-051",
     "isToken": false,
@@ -1132,5 +1990,5 @@
     "Especial": [
       "🔅Única"
     ]
-  }
+  },
 }
